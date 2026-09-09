@@ -14,6 +14,5 @@
 
 那是一种源自生命本源的激情，也许正是这种激情，在几亿年前，使地球生命由海洋爬上陆地。
 
-<img width="1080" height="808" alt="Image" src="https://github.com/user-attachments/assets/30734c04-09a7-4ffe-aa3b-848b8559110b" />
-
-<img width="1280" height="2482" alt="Image" src="https://github.com/user-attachments/assets/05656abd-b1a4-4168-bf73-340fdc620caf" />
+<img width="1280" height="2482" alt="Image" src="https://github.com/user-attachments/assets/0d841d03-f94b-40e6-83f0-b6ad795a5e1e" />
+<img width="1080" height="808" alt="Image" src="https://github.com/user-attachments/assets/dd496f19-37f6-4583-83a7-615ba5305345" />
